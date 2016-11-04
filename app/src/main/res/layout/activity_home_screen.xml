@@ -43,6 +43,18 @@
 
                 </LinearLayout>
         </LinearLayout>
+        <ListView
+            android:id="@+id/homeMissionList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </ListView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add Mission"
+            android:layout_gravity="bottom"/>
 
 
     </LinearLayout>
